@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057253217160",
+    "project_id": "my-awesome-app-c974b",
+    "storage_bucket": "my-awesome-app-c974b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057253217160:android:e410954a9b3233adf8603d",
+        "android_client_info": {
+          "package_name": "com.sellcard.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057253217160-7mft7vfffdlt3smn39tg95h3clg5tmos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcClZO4r-PSYsFHC1jSE74OI6jIW18a4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057253217160-7mft7vfffdlt3smn39tg95h3clg5tmos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
